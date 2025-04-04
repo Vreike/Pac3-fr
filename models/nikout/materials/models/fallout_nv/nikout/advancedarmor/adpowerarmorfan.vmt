@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "models\fallout_nv\nikout\Advancedarmor\adpowerarmorfan"
+	"$bumpmap" "models\fallout_nv\nikout\Advancedarmor\adpowerarmorfan_n"
+}
