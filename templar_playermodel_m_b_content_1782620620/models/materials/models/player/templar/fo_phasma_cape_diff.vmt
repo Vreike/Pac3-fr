@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "\models\player\templar/FO_Phasma_Cape_Diff"
+                "$bumpmap"    "models\player\templar/battaliongeneralphasma_body1_model0"
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint"	"[0.7 0.7 0.7]"
+	"$phong" "1"
+	"$phongboost"	"2"
+	"$phongfresnelranges"	"[.5 1 1]"
+	"$phongexponent" "10"
+	"$nocull" "1"
+
+}
+
+
+
+
+
+

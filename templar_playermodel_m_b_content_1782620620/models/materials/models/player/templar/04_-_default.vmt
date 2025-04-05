@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/templar/templar"
+                "$bumpmap" "models/player/templar/templar_normal"
+
+	"$nocull" 1
+}
