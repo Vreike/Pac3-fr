@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\xuvon\goc_re\vest_col"
+	"$bumpmap"					"models\xuvon\goc_re\vest_nml"
+
+	"$phong"					"1"
+	"$phongboost"				"0.3"
+	"$phongexponent"			"9"
+	"$phongfresnelranges"		"[0.2 0.6 1]"
+
+	"$detail"					"models\xuvon\goc_re\detail_vest"
+	"$detailscale"				"10"
+	"$detailblendfactor"		"0.5"
+	"$detailblendmode"			"0"
+}
