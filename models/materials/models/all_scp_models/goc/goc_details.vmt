@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models\all_scp_models\goc/goc_details"
+	"$nocull" 1
+	"$translucent" "1"
+	"$VertexColor" 1
+	"$VertexAlpha" 1
+	"$receiveflashlight" "1"
+}

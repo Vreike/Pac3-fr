@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\all_scp_models\goc/goc_armor"
+	"$bumpmap"    "models\all_scp_models\goc/goc_armor_n"
+	
+	"$phong"	"1"
+	"$phongexponent"	"6"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.10"
+	"$phongfresnelranges"	"[5 7 8]"
+    "$lightwarptexture" 	"models\all_scp_models\shared/Clothes_wrp"
+	"$phongexponenttexture" "models\all_scp_models\shared/exp"
+	$detail  	"models\all_scp_models\goc/metal"
+$detailscale 11
+$detailblendfactor 1
+$detailblendmode 0
+}
+
+
