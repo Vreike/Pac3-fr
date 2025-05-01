@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models\combat\engie\backpack_dark2"
+	
+	$phong 1
+	$phongalbedotint 1
+	$phongexponent 10
+	$phongboost 0.1
+	$phongfresnelranges "[0.5 1.5 8.0]"
+	
+	// $rimlight 1
+	$rimlighexponent 25
+	$rimlightboost 0.01
+}

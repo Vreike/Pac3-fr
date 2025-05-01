@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\combat\engie\body_dark"
+	"$normalmap" "models\combat\engie\body_n"
+
+	$nocull 0
+}

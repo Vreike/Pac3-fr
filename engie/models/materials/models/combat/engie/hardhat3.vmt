@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\combat\engie\hardhat2"
+	"$normalmap" "models\combat\engie\hardhat_n"
+
+}
