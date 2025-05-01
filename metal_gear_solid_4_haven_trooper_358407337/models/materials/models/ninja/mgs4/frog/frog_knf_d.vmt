@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\ninja/mgs4/frog/frog_knf_d"
+	"$bumpmap" 	"models\ninja/mgs4/frog/frog_knf_n"
+	"$halflambert" "1"
+	"$nocull" "1" 
+
+	"$normalmapalphaenvmapmask" 1
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 0.01 0.01 0.01 ]"
+	"$envmapsaturation" ".01"
+	"$envmapcontrast" "0.1"
+
+	"$phong" "1"
+	"$phongexponenttexture" "models\ninja/mgs4/frog/frog_knf_exp"
+	"$phongboost" "3"
+	"$phongfresnelranges"	"[ .3 1.2 8]"
+
+                "$lightwarptexture" 	"models\ninja/mgs4/Clothes_wrp"
+
+	"$no_draw" 0
+}
+
+
+
