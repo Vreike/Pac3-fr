@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/kogg/lord_general/general_head_dif"
+	"$bumpmap" "models/kogg/lord_general/general_head_nrm"
+}
