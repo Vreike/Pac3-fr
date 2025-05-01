@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/sfod/armor"
+	"$bumpmap" "models/sfod/armornormal"
+	$nocull 1
+	"$model" 1
+	"$halflambert" 1
+	"$normalmapalphaenvmapmask" "1" 
+}

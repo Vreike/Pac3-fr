@@ -1,0 +1,19 @@
+"vertexlitgeneric"
+{
+	$basetexture "models/sfod/helmet2"
+	"$bumpmap" "models/sfod/helmet2normal"
+	$selfillum "1"
+	$selfillummask "models/sfod/helmet2emission"
+	$nocull 1
+	"$model" 1
+	"$halflambert" 1
+	"$normalmapalphaenvmapmask" "1" 
+	
+	
+	"$phongalbedotint" 1
+                 "$phong" "1" 
+                "$phongexponent" "1000"
+                 "$phongboost" "1"
+                 
+                 "$phongfresnelranges" "[1 1 1 ]" 
+}
