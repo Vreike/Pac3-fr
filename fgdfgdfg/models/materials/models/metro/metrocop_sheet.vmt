@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/metro/metrocop_sheet"
+                "$bumpmap" "models/metro/metrocop_sheet_normal"
+}
+

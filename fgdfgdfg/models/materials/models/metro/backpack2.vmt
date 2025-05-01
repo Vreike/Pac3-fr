@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/metro/backpack2"
+	  $Phong 1
+	  $AmbientOcclusion 1
+	"$selfillum" 1
+}
+

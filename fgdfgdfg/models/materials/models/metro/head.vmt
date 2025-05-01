@@ -1,0 +1,9 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/metro/head"
+                "$bumpmap" "models/metro/head_norm"
+	  $Phong 1
+	  $AmbientOcclusion 1
+	"$selfillum" 1
+}
+

@@ -1,0 +1,8 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models/metro/strap"
+	  $Phong 1
+	  $AmbientOcclusion 1
+	"$selfillum" 1
+}
+
