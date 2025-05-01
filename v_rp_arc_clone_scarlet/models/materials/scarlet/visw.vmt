@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "scarlet/visw"
+                $nocull 1
+}

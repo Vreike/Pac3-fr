@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "scarlet/ARCPistolsHolsters"
+                $nocull 1
+}
