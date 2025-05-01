@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/epicplayer/Police/boot"
+	"$envmapmask"  "models/epicplayer/Police/boot_mask"
+	//"$envmap"  "models/epicplayer/Police/envmap"
+	//"$envmapsphere" 1
+	"$multipass" 1
+
+	"$envmap"  env_cubemap
+	"$envmapsaturation" 0
+	"$envmaptint" "[0.2 0.2 0.2]"
+}
