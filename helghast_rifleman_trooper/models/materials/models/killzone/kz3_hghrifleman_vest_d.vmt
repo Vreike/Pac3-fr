@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\killzone\kz3_hghrifleman_vest_s"
+
+	"$bumpmap" "models\killzone\kz3_hghrifleman_vest_n"
+	"$model" 1
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" ".1"
+	"$phongfresnelranges" "[0.3 1 7]"
+	"$phongalbedotint" "1"		
+}
+
