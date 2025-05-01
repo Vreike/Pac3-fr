@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$basetexture "models/sfod/head"
+	$bumpmap "models/sfod/headnormal"
+
+	$nocull 1
+}

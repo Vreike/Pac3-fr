@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	$basetexture "models/sfod/helmet3"
+	$bumpmap "models/sfod/helmet2normal"
+
+	$nocull 1
+
+	$phong 1
+	$phongfresnelranges "[1 1 1]"
+	$halflambert 1
+	$phongalbedotint 1
+	$phongexponent 1000
+
+	$selfillum 1
+	$selfillummask "models/sfod/helmet3emission"
+
+	$model 1
+}
