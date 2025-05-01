@@ -1,0 +1,14 @@
+//Made by Saint Aldrich
+
+"VertexLitGeneric"
+{
+	"$basetexture" "aldrich\deathwing\animatednpcs\TechPriest" //Base w Selfillum
+	"$bumpmap" "aldrich\deathwing\animatednpcs\TechPriest_n" //Bump w Specular
+	"$surfaceprop" "metal"
+
+	"$selfillum"			"1" //Does glow?
+	//"$selfillummask" "aldrich\asuraswrath\animatednpcs\"
+	"$normalmapalphaenvmapmask"	"1" //has specular?
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.1 0.1 0.1]" //Specular colour tint/power
+}
