@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 				"models\Blagod\mass_effect\pm\alliance\terminus_unit\Helmet_Diff_1"
+	"$bumpmap" 					"models\Blagod\mass_effect\pm\alliance\terminus_unit\Helmet_Norm"
+	
+    $phong 						1
+    $phongexponent 				3
+	$phongexponenttexture 		"models\Blagod\mass_effect\pm\alliance\terminus_unit\Helmet_Spec"	
+    $phongfresnelranges			"[3.7 0.0 0.0]"
+	$phongboost					0.1	
+	$PhongAlbedoTint 			1
+
+       $detail                    "models\Blagod\mass_effect\pm\alliance\terminus_unit/Helmet_emiss_1"
+       $detailscale 1        
+       $detailblendfactor 1  
+       $detailblendmode 5
+	
+	$rimlight 					1										
+	$rimlightexponent 			10								
+	$rimlightboost 				0.15
+}
