@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/player/FF37Police/pantsfront"
+	"$envmaptint" "[.5 .5 .5]"
+	"$bumpmap" "Models/player/FF37Police/pantsfront_norm"
+	//"$envmap" "env_cubemap"
+	"$basemapluminancephongmask" 1
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "15"
+	"$phongalbedotint" "1"								
+	"$phongfresnelranges"	"[0.04 0.4 1]"
+}

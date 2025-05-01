@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/player/FF37Police/radio"
+	"$emissiveblendenabled" "1"
+	"$emissiveblendbasetexture" "models/player/FF37Police/radio_illum"
+	"$emissiveblendtexture" "models/player/FF37Police/lilgreen"
+	"$emissiveblendstrength" 1
+	"$emissiveblendscrollvector" "[0 0]"
+	"$bumpmap" "models/player/FF37Police/radio_norm"
+	"$phong" 1
+	"$phongboost" "4"
+	"$phongexponent" "5"
+	"$phongalbedotint" "1"								
+	"$phongfresnelranges"	"[0.04 0.4 1]"
+	"$EmissiveBlendFlowTexture" 	"vgui/white"	
+}

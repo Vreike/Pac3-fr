@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitMaskedEnvMappedTexture
+	"$basetexture" "models/player/FF37Police/coatinside"
+	"$bumpmap" "models/player/FF37Police/coatinside_norm"
+	//"$envmap" "env_cubemap"
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "25"
+	"$phongalbedotint" "1"								
+	"$phongfresnelranges"	"[0.04 0.4 1]"
+	$basemapluminancephongmask 1
+}

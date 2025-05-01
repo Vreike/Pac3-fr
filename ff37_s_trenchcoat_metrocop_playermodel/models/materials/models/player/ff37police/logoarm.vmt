@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/player/FF37Police/logoarm"
+	"$bumpmap" "models/player/FF37Police/logoarm_norm"
+	"$phong" "1"
+	"$phongboost" "5"
+	"$phongexponent" "5"
+	"$phongalbedotint" "1"								
+	"$phongfresnelranges"	"[0.04 0.4 1]"
+	"$model" "1"
+	"$halflambert" 1
+	$basemapluminancephongmask 1
+}
