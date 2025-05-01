@@ -1,6 +1,0 @@
-VertexLitGeneric
-{
-	$basetexture "models/sfod/visor"
-	$bumpmap "models/sfod/visornormal"
-	$surfaceprop Glass
-}
