@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/stag/head"
+	"$bumpmap" "models/stag/head_n"
+}
