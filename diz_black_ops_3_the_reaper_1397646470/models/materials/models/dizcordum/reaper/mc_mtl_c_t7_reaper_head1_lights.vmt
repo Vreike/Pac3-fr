@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/dizcordum/Reaper/bodylights"
-	"$selfillum" "1"
-	"$selfillummask" "models/dizcordum/Reaper/bodylights"
-	
-}
