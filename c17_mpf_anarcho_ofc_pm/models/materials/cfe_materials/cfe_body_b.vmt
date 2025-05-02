@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 		"cfe_materials\CFE_body_b_diff"
+	"$bumpmap" 		"cfe_materials\CFE_body_normal"
+
+	"$color2"	"[0.9 0.9 0.9]"
+	"$blendTintByBaseAlpha"	"1"
+
+	"$phongexponenttexture" "cfe_materials\CFE_body_exp"
+
+	"$phong" "1"
+	"$phongboost"	"0.40"
+
+	"$phongfresnelranges"	"[0.22 0.856 20]"
+
+	$rimlight               1
+	$rimlightexponent       2
+	$rimlightboost          .2
+
+	"$Detail" 				  	 "cfe_materials\CFE_body_emissive"
+	"$DetailScale" 			  	  "1"
+	"$DetailBlendFactor" 	  	  "1"
+	"$DetailBlendMode" 		   	  "5"
+}

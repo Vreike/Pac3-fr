@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "cfe_materials\CFE_tank_diff"
+	"$bumpMap" "cfe_materials\CFE_tank_normal"
+	"$phongExponentTexture" "cfe_materials\CFE_tank_exp"
+	"$phong" "1"
+	"$phongBoost" ".5"
+	"$phongexponent" "3"
+	"$phongFresnelRanges" "[0.1 0.5 1]"
+	"$phongDisableHalfLambert" "1"
+	"$NoCull" "1"
+}

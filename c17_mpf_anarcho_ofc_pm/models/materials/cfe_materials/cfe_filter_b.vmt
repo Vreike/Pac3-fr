@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+//Base
+	"$basetexture" 					"cfe_materials\CFE_mask_b_diff"
+	"$bumpmap" 						"cfe_materials\CFE_mask_b_normal"
+	"$phongexponenttexture" 		"cfe_materials\CFE_mask_b_exp"
+
+//Other	
+	"$color2"						"[1 1 1]"
+	"$blendTintByBaseAlpha"			"1"
+	"$nocull"					"1"
+
+//Phong	
+	"$phong" 						"1"
+	"$phongboost"					"2"
+	"$phongfresnelranges"			"[0.1 0.23 0.945]"
+	"$phongdisablehalflambert"		"1"
+}

@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 		"cfe_materials\CFE_mask_a_diff"
+	"$bumpmap" 		"cfe_materials\CFE_mask_a_normal"
+	
+	"$color2"	"[0.9 0.9 0.9]"
+	"$phong" "1"
+	"$phongboost" "6"
+	"$phongfresnelranges"	"[.04 .16 1]"
+	"$phongdisablehalflambert" 1
+
+	"$Detail" 				  	 "cfe_materials\CFE_mask_a_emissive"
+	"$DetailScale" 			  	  "1"
+	"$DetailBlendFactor" 	  	  "1"
+	"$DetailBlendMode" 		   	  "5"
+}

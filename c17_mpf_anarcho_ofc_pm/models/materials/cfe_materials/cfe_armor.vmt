@@ -1,0 +1,29 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "cfe_materials\CFE_armor_diff"
+	"$bumpmap" "cfe_materials\CFE_armor_normal"
+
+	//MaterialAdjustment
+	
+	"$color2" "[1.1 1.1 1.1]"
+	"$PhongDisableHalfLambert" "1"
+
+
+	$lightwarptexture "cfe_materials\CFE_lightwarp_soft"
+
+	"$rimlight" "1"
+	"$rimlightboost" "0"
+
+	//IMPORTANT:
+
+	"$phong" "1"						
+	"$phongboost"	"0" 		
+	"$phongexponenttexture" "cfe_materials\CFE_green_b"  ///UV88, 0.8
+	"$phongfresnelranges"	"[0.05 0.35 1.25]"					
+	//"$PhongAlbedoTint" "1"
+
+	$detail "cfe_materials\CFE_armor_dtl"
+	$detailscale 13
+	$detailblendfactor 4
+	$detailblendmode 0
+}

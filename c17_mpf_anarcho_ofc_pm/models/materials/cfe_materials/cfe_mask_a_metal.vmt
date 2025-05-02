@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 		"cfe_materials\CFE_mask_a_diff"
+	"$bumpmap" 		"cfe_materials\CFE_mask_a_normal_alt"
+
+	"$nodiffusebumplighting"	"1"
+
+	"$color2"			"[0 0 0]"
+
+	"$additive"	"1"
+
+	"$phongexponenttexture" "cfe_materials\CFE_mask_a_exp"
+	"$phongalbedotint" 1
+
+	"$phong" "1"
+
+	"$phongboost"	"8"
+	"$phongfresnelranges"	"[0.76 0.921 1.25]"
+}

@@ -1,0 +1,38 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "cfe_materials\CFE_backpack_med_diff"
+	"$bumpmap" "cfe_materials\CFE_backpack_normal"
+	"$color2" "[1.3 1.3 1.3]"
+             //"$selfillum" "1"
+             //"$selfillummaskscale" "15"
+             //"$selfillummask" "/chr_ying_main_emi"
+	
+	"$normalmapalphaenvmapmask" "1"				
+	"$envmap" "env_cubemap"							
+	"$envmapsaturation" "1"
+	"$envmaptint" "[.015 .015 .015]"					
+ 	"$envmapFresnel" "1"					
+
+	"$nocull" "1"	
+
+             //"ReflectionsDir
+
+	"$phong" "1"	
+	"$phongboost" "0.25"
+	"$phongexponent" "5"	
+	"$phongexponenttexture" "cfe_materials\CFE_upperbody_a_mask"
+		
+	"$lightwarptexture" "cfe_materials\CFE_lightwarp_soft"
+	"$phongtint" "[1 1 .9]"
+	"$phongfresnelranges" "[.2 .5 5]"
+
+             //"$PhongAlbedoTint" "1"
+	"$rimlight" "1"
+	"$rimlightboost" "0.35"
+             //"$rimmask" "1"
+
+	$detail "cfe_materials\CFE_armor_dtl"
+	$detailscale 13
+	$detailblendfactor 4
+	$detailblendmode 0
+}
