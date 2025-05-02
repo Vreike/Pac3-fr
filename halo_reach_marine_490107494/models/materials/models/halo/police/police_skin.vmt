@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models\Halo\Police\police_skin"
-	"$bumpmap" "models\Halo\Police\police_body_zbump"
-	"$halflambert" 1
-}

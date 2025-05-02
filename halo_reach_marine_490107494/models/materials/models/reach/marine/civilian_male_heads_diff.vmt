@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models\Reach\Marine\civilian_male_heads_diff"
-	"$bumpmap" "models\Reach\Marine\civilian_male_heads_normal"
-	"$halflambert" 1
-}

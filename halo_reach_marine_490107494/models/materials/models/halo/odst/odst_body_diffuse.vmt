@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models/Halo/ODST/odst_body_diffuse"
-	"$bumpmap" "models/Halo/ODST/odst_body_zbump"
-	"$halflambert" 1
-}

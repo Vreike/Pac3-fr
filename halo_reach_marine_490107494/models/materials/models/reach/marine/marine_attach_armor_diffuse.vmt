@@ -1,6 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "models\reach\marine/marine_attach_armor_diffuse"
-	"$bumpmap" "models\reach\marine/marine_attach_armor_n"
-	"$halflambert" 1
-}
