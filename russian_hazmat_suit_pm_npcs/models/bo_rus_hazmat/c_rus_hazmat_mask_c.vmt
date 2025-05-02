@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/bo_rus_hazmat/c_rus_hazmat_mask_c"
+	"$bumpmap" "models/bo_rus_hazmat/c_rus_hazmat_mask_n"
+	"$phong"	"1"
+//	"$phongexponent"	 "0.01"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[.01 .01 5]"
+	"$halflambert"	"1"
+}
+

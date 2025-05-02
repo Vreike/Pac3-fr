@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/bo_rus_hazmat/hazmatgloves"
+	"$bumpmap"     "models/bo_rus_hazmat/hazmatgloves_n"
+
+	"$phong" "1"
+	"$phongboost" "2"
+	"$phongexponent" "5"
+	"$phongfresnelranges"	"[.1 .5 1]"
+	
+	"$rimlight" "1"
+	"$rimlightboost" "0.2"
+	"$rimlightexponent" "4"
+}
