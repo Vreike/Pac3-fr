@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "helios/rouger/coat"
+	$nocull 1
+}
