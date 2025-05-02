@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\reach\marine\marine_badlands_set_diffuse"	
+  	"$bumpmap"	"models\reach\marine\marine_badlands_set_n"
+
+
+}

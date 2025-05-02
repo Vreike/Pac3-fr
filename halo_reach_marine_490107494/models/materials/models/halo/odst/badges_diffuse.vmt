@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Halo/ODST/badges_diffuse"
+	"$halflambert" 1
+}
