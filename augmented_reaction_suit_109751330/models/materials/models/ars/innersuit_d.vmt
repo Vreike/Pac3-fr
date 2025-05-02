@@ -1,0 +1,12 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "Models/ARS/Innersuit_d"
+	"$bumpmap" "Models/ARS/Innersuit_n"
+	"$halflambert" 1
+	"$nocull" 1
+
+	"$phong" 1
+	"$phongboost" "0.3" 
+	"$phongfresnelranges" "[ 1 5 15]"
+	"$phongexponent" "10"
+}
