@@ -1,0 +1,32 @@
+"VertexLitGeneric"
+{
+
+	"$basetexture" "models\ae\hazmat/erdim_rng"
+    "$bumpmap" "models\ae\hazmat/mage_conscript_flatnormal"
+$phong 1
+$frame 1000
+$rand 0
+$zero 0
+$fh 500
+
+"Proxies"
+   {
+      	"EntityRandom"
+       	 {
+           	"scale" "1.99"
+           	"resultVar" "$rand"
+       	 }
+
+	"LessOrEqual"
+     	   {
+          	  "LessEqualVar" "$frame"
+          	  "greaterVar" "$rand"
+          	  "srcVar1" "$frame"
+           	  "srcVar2" "$fh"            
+          	  "resultVar" "$frame"    
+       	  }
+
+   }
+
+
+}

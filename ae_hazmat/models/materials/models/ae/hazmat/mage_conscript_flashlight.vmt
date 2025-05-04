@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\ae\hazmat/mage_conscript_flashlight"
+ "$bumpmap" "models\ae\hazmat/mage_conscript_flatnormal"
+$phong 1
+
+$nocull 1
+}

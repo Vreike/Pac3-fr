@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/Weapons/V_Stunbaton/W_Contacts01a"
+    "$bumpmap" "models\ae\hazmat/mage_conscript_flatnormal"
+$phong 1
+$nocull 11
+$envmap "env_cubemap"
+}

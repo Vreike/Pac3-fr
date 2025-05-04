@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\ae\hazmat/mage_conscript_smallpack"
+                  "$bumpmap" "models\ae\hazmat/mage_conscript_smallpack_normal"
+	"$nocull" 1
+                  "$phong" 1
+$alphatest 1
+
+"Proxies"
+   {
+      	"EntityRandom"
+       	 {
+           	"scale" "1.99"
+           	"resultVar" "$rand"
+       	 }
+
+	"LessOrEqual"
+     	   {
+          	  "LessEqualVar" "$frame"
+          	  "greaterVar" "$rand"
+          	  "srcVar1" "$frame"
+           	  "srcVar2" "$fh"            
+          	  "resultVar" "$frame"    
+       	  }
+
+   }
+

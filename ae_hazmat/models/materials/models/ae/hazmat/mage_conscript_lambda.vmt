@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\ae\hazmat/mage_conscript_lambda"
+	"$bumpmap" "models\ae\hazmat/mage_conscript_flatnormal"
+$phong 1
+}

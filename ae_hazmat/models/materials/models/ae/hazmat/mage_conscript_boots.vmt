@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\ae\hazmat/mage_conscript_boots"
+"$bumpmap" "models\ae\hazmat/mage_conscript_boots_normal"
+$phong 1
+$nocull 1
+}

@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\ae\hazmat/mage_conscript_radio"
+	"$bumpmap" "models\ae\hazmat/mage_conscript_radio_normal"
+	"$phong" "0"
+	"$phongboost" "1"
+	"$phongexponent" 8			
+	"$phongfresnelranges"	"[.5 0.5 1]"
+$envmap ""
+	"$normalmapalphaenvmapmask" 1
+}

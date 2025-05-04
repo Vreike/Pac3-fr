@@ -1,0 +1,9 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\ae\hazmat/mage_conscript_grenade"
+	"$bumpmap" "models\ae\hazmat/mage_conscript_grenade_normal"
+	"$nocull" 1
+                  "$phong" 1
+
+
+}

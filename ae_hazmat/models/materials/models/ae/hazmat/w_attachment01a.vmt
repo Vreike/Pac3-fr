@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/Weapons/V_Stunbaton/W_Attachment01a"
+    "$bumpmap" "models\ae\hazmat/mage_conscript_flatnormal"
+$phong 1
+$nocull 1
+}

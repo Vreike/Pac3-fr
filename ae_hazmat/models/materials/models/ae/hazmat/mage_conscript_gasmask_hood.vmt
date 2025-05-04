@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\ae\hazmat/mage_conscript_gasmask_hood"
+ "$bumpmap" "models\ae\hazmat/mage_conscript_gasmask_hood_normal"
+$phong 1
+$alphatest 1
+$nocull 1
+}
