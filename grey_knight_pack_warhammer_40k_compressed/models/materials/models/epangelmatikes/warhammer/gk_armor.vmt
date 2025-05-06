@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\epangelmatikes\warhammer\gk_armor"
+	"$bumpmap" "models\epangelmatikes\warhammer\gk_armor_n"
+
+	
+	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost" "5"
+	"$phongfresnelranges" "[1.4 1.4 1.2]"
+
+	"$phongalbedotint"	"1"
+	"$phongexponenttexture" "models\epangelmatikes\warhammer\gk_armor"
+
+	"$envmap"	"env_cubemap"
+	"$envmaptint"	"[0.1 0.1 0.1]"
+	"$envmapfresnel"	"1"	
+	"$normalmapalphaenvmapmask"	"1"
+
+
+
+
+
+}

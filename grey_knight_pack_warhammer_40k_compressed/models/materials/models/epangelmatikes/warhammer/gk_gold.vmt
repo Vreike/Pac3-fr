@@ -1,0 +1,24 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\epangelmatikes\warhammer\gk_gold"
+	"$bumpmap" "models\epangelmatikes\warhammer\gk_gold_n"
+
+	
+	"$phong" "1"
+	"$phongexponent" "4"
+	"$phongboost" "8"
+	"$phongfresnelranges" "[1.4 1.4 1.2]"
+
+	"$phongalbedotint"	"1"
+	"$phongexponenttexture" "models\epangelmatikes\warhammer\phong"
+
+	"$envmap"	"env_cubemap"
+	"$envmaptint"	"{152 118 63}"
+	"$envmapfresnel"	"1"	
+	"$normalmapalphaenvmapmask"	"1"
+
+
+
+
+
+}
