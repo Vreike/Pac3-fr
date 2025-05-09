@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/asg/bloodraven/power_armour_commander_dif"
+	"$bumbmap" "models/asg/bloodraven/power_armour_commander_nrm"
+}

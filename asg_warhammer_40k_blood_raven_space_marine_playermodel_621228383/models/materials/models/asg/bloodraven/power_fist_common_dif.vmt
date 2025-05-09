@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/asg/bloodraven/power_fist_common_dif"
+	"$bumbmap" "models/asg/bloodraven/power_fist_common_nrm"
+}

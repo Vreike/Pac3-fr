@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/asg/bloodraven/space_marine_head_dif"
+	"$bumpmap" "models/asg/bloodraven/space_marine_head_nrm"
+}
