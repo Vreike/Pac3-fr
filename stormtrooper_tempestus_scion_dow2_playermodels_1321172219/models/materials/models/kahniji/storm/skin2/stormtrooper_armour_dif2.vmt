@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models/kahniji/storm/skin2/stormtrooper_armour_dif2"
+	"$bumpmap" 	"models/kahniji/storm/shared/stormtrooper_armour_nrm"
+	"$model" 1
+	"$nocull" 1
+
+	"$normalmapalphaenvmapmask" "1"
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost"						"1"
+	"$phongfresnelranges"				"[0.05 0.5 1]"
+}
