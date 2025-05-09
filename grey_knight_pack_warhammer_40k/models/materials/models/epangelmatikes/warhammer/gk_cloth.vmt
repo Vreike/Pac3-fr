@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\epangelmatikes\warhammer\gk_cloth"
+	"$bumpmap" "models\epangelmatikes\warhammer\gk_cloth_n"
+
+	
+	"$phong" "1"
+	"$phongexponent" "125"
+	"$phongboost" "0.5"
+	"$phongfresnelranges" "[1.5 1.4 1.3]"
+
+
+	"$envmap"	"env_cubemap"
+	"$envmaptint"	"[0.1 0.1 0.1]"
+	"$envmapfresnel"	"1"	
+	"$normalmapalphaenvmapmask"	"1"
+
+	"$rimlight" "1"		
+	"$rimlightexponent" "11"
+	"$rimlightboost" "5"
+
+	"$half" "0.5"
+
+
+	"$alphatest"	"1"
+
+}
