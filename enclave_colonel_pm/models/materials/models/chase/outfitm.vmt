@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\chase/outfitm"
+	"$bumpmap" "models\chase/outfitm_n"
+
+	"$phong" "1"
+	"$phongboost" "6.5"
+	"$phongexponent" "1.5"
+	"$phongtint" "[0.2 0.2 0.2]"
+	"$phongfresnelranges" "[.0 .0 .0]"
+	"$model" "1"
+	"$detail" "models/h&h/shared/detail_steel"
+	"$detailscale" "25"
+	"$detailblendfactor" "2"
+	"$detailblendmode" "0"
+	"$lightwarptexture" "models/h&h/shared/lightwarp_steel"
+	"$alphatest" "1"
+
+$envmaptint "[0.14 0.15 0.16]"
+
+$color2 "[0.7 0.655 0.635]"
+
+    $selfillum 1
+    $selfillummask "models/h&h/enclavepowerarmor/enclavearmor_g"
+    $selfillumtint "[ 8 8 8]"
+}
