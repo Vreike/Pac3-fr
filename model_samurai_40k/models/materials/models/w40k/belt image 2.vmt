@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/W40K/Belt 2"
+	$translucent 1
+}

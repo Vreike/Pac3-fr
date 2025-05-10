@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/W40K/samurai_body_d"
+	$bumpmap models/W40K/SAMURAI_BODY_N
+}
