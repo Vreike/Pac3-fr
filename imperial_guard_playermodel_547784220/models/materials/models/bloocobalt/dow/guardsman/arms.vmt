@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\bloocobalt\dow\guardsman/arms"
+	"$halflambert" 1
+	"$nocull" 1
+}

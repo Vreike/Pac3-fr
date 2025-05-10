@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\bloocobalt\dow\guardsman/ig_trooper_common_d_dif"
+	"$bumpmap" "models\bloocobalt\dow\guardsman/ig_trooper_common_nrm"
+	"$nocull" 1
+	"$phong" "1"
+	"$phongexponent" "12"
+	"$phongboost" "1"
+	"$phongfresnelranges" "[0.7 1.5 3.1]"
+	"$phongalbedotint" "1"
+	"$rimlight" "1"
+	"$rimlightexponent" "300"
+	"$rimlightboost" "0.1"
+}

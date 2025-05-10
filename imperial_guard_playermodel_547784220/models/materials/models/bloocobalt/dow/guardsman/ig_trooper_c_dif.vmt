@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\bloocobalt\dow\guardsman/ig_trooper_c_dif"
+	"$bumpmap" "models\bloocobalt\dow\guardsman/ig_trooper_common_nrm"
+	"$nocull" 1
+	"$halflambert" 1
+}

@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+$baseTexture "models\lasgun\bayonet"
+$bumpmap "models\lasgun\bayonet_normal2"
+$nocull 1
+	"$phong" "1"
+	"$phongexponent" "150"
+	"$phongboost" "1"	
+ 	"$phongfresnelranges" "[0.1 2.1 5.1]"
+	"$phongalbedotint" "1"
+
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "300"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "0.5"
+}
