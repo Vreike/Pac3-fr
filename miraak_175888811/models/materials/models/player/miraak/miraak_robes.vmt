@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/miraak/miraak_robes"
+	"$bumpmap" "models/player/miraak/miraak_robes_n"
+
+	"$normalmapalphaenvmapmask" 1
+	"$alphatest" 1
+
+	"$phong" 1
+	"$phongexponent" 5
+	"$phongboost" 5
+	"$phongfresnelranges" "[0.05 0.5 1]"
+}
