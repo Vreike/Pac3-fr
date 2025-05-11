@@ -1,0 +1,5 @@
+"vertexlitgeneric"
+{
+	"$baseTexture"		"models\generalderinfanteri/epaulette"
+	"$bumpmap"		"models\generalderinfanteri/epaulette_n"
+}

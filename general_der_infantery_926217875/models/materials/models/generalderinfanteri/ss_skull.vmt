@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\unterstrum\SS_SKULL"
+	$translucent 1
+}

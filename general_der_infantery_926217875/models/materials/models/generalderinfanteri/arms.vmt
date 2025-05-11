@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\generalderinfanteri\arms"
+	"$bumpmap" "models\generalderinfanteri/arms_normal"
+
+$phong 1
+$phongboost .2
+$phongexponent 5
+$phongtint "[1 1 1]"
+$halflambert 0
+$phongfresnelranges "[.4 .8 3]"
+$ambientocclusion 1
+
+	"$detail" "models\heads\skin_detail"
+	"$detailscale" 30.283
+	"$detailblendfactor" .45
+	"$detailblendmode" 0
+
+$diffuseexp "1.5"
+}
