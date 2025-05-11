@@ -1,0 +1,24 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 						"models/Kuzmin\BF3 Marine/avpmarinemarine_barearm_colout"
+	"$bumpmap" 							"models/Kuzmin\BF3 Marine/avpmarinemarine_barearm_normal"
+	
+	"$allowdiffusemodulation" 			"0"
+	"$ambientocclusion" 				"1"
+	
+	"$nodecal" 							"1"
+	"$nocull" 							"1"
+	
+	"$phong" 							"1"
+	//"$phongexponent" 					"3"
+	"$phongboost"						"2"
+	"$phongfresnelranges"				"[0.1 0.1 0.1]"
+
+	//"$rimlight" 						"1"
+	//"$rimlightboost" 					"2"
+	//"$lightwarptexture" 				"models/Kuzmin\BF3 Marine/avp_marine_lightwarp"
+	
+
+
+
+}

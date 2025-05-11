@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\Kuzmin\BF3 Marine/hesh_ranger_head_x_col"
+	"$bumpmap" "models\Kuzmin\BF3 Marine/us_space_int_head_c_nml"
+        "$lightwarptexture" 	"models\Kuzmin\BF3 Marine\Base_M_caucasian_wrp"
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[.5 3 48]"
+
+}

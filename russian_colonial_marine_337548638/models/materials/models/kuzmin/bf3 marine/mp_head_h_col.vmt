@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\Kuzmin\BF3 Marine/mp_head_h_col"
+	"$bumpmap" "models\Kuzmin\BF3 Marine/mp_head_nml"
+        "$lightwarptexture" 	"models\Kuzmin\BF3 Marine\Base_M_caucasian_wrp"
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[.5 3 48]"
+
+	"$blendtintbybasealpha" "1" // alpha channel of $basetexture: color mask.
+ 	"$blendtintcoloroverbase" "0" // blend mode. anything =/= 0 is ugly!
+
+}

@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 						"models/Kuzmin\BF3 Marine/marine_shirt_colout"
+	"$bumpmap" 							"models/Kuzmin\BF3 Marine/marine_shirt_colout_normal"
+	"$detail"						    "models/Kuzmin\BF3 Marine/Detail_Cloth"
+	"$detailscale"					    "3"
+	
+	"$allowdiffusemodulation" 			"0"
+	"$ambientocclusion" 				"1"
+	
+	"$nodecal" 							"1"
+	"$nocull" 							"1"
+	
+	"$phong" 							"1"
+	"$phongboost"						"1"
+	"$phongfresnelranges"				"[0.1 0.1 0.1]"
+
+	//"$rimlight" 						"1"
+	//"$rimlightboost" 					"2"
+	"$lightwarptexture" 				"models/Kuzmin\BF3 Marine/avp_marine_lightwarp"
+	
+
+
+
+}
