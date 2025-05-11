@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/mailer/tesv_dragonpriest/dragonpriest"
+	"$bumpmap" "models/mailer/tesv_dragonpriest/dragonpriest_n"
+	"$alphatest" "1"
+	"$nocull" "1"
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" "0.3"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 1 .8]"
+	"$phongfresnelranges"	"[0.5 6 10]"
+}

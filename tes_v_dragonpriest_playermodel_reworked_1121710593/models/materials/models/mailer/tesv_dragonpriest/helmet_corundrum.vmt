@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/mailer/tesv_dragonpriest/helmet_corundrum"
+	"$bumpmap" "models/mailer/tesv_dragonpriest/helmet_n"
+
+	"$model" "1"
+	"$phong" "1"
+	"$phongexponent" "15"
+	"$phongboost" "0.3"
+	"$phongalbedotint" "1"
+	"$phongtint" "[1 1 .8]"
+	"$phongfresnelranges"	"[0.5 6 10]"
+}
