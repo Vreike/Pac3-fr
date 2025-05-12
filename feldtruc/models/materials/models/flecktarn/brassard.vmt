@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/flecktarn/brassard_col"
+	"$bumpmap" "models/flecktarn/brassard_nml"
+	"$surfaceprop" "BloodyFlesh"
+	"$alphatest" 1
+	"$translucent" 1
+}
