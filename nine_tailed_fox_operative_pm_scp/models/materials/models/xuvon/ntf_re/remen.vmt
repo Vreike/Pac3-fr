@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\xuvon\ntf_re\remen_diff"
+	"$bumpmap"					"models\xuvon\ntf_re\remen_nml"
+
+	"$halflambert"              "1"
+
+	"$phong"                    "1"
+	"$phongboost"               "0.1"
+	"$phongexponent"            "9"
+	"$phongtint"                "[.85 .85 1]"
+    "$phongfresnelranges"       "[.3 4 30]"
+
+	"$ambientocclusion"         "1"
+
+	"$detail"					"models\xuvon\ntf_re\detail"
+	"$detailscale"				"13"
+	"$detailblendfactor"		"4"
+	"$detailblendmode"			"0"
+}
