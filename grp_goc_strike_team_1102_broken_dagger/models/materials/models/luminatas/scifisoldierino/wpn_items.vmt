@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/raviool/wpn_items"
+	$bumpmap "models/Luminatas/scifisoldierino/wpn_items_n"
+$normalmapalphaenvmapmask 		"1"
+	"$nocull" 1
+$surfaceprop metal
+$nodecal 1
+$phong 1
+$phongexponent 9
+$phongboost 3
+$phongfresnelranges "[.05 .5 .5]"
+}

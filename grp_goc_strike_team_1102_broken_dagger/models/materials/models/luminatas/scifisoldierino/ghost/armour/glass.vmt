@@ -1,0 +1,16 @@
+VertexLitGeneric
+{
+	$basetexture					"models/Luminatas/scifisoldierino/ghost/armour/glass"	
+  	$bumpmap						"models/Luminatas/scifisoldierino/ghost/armour/glass_n"
+	$translucent 1
+	$halflambert 1
+	$nocull 1
+ 	$phong 1
+	$phongboost 1
+	$phongexponent 1 
+}
+
+
+
+
+
