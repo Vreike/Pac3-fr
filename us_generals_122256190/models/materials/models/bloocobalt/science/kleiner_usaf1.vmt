@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\bloocobalt\SCIENCE/kleiner_usaf_gen"
+	"$halflambert" 1
+	"$nocull" 1
+	"$alphatest" 1
+	"$bumpmap" "models\bloocobalt\SCIENCE/kleiner_usaf_gen_n"
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "1"
+ 	"$phongfresnelranges" "[0.1 2.1 5.1]"
+	"$phongalbedotint" "1"
+}

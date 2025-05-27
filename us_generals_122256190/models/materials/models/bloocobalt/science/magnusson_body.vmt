@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\bloocobalt\SCIENCE/magnusson_body"
+	"$surfaceprop"	"default"
+	"$halflambert"	1
+	"$model" 1
+	"$nocull" 1
+}
