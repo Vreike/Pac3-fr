@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\chase/outfitm"
+	"$bumpmap" "models\chase/outfitm_n"
+}
