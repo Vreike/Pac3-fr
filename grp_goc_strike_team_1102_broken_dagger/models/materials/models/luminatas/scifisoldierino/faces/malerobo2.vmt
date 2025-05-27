@@ -1,0 +1,22 @@
+VertexLitGeneric
+{
+	$basetexture					"models/Luminatas/scifisoldierino/faces/malerobo2"	
+  	$bumpmap					"models/Luminatas/scifisoldierino/faces/malerobo2_n"
+	$normalmapalphaenvmapmask 		"1"
+	"$halflambert" "1"
+	"$nocull" 1
+ 	$phong 1
+	$phongboost 1
+	$phongexponent 1
+	$rimlight 						"1"
+	$rimlightexponent 				"50"
+	$rimlightboost 					"0.05"
+}
+
+
+
+
+
+
+
+

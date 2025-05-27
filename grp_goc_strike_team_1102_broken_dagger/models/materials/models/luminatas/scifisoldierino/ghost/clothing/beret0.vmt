@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	$basetexture					"models/Luminatas/scifisoldierino/ghost/clothing/beret0"	
+  	$bumpmap						"models/Luminatas/scifisoldierino/ghost/clothing/beret0_n"
+	$normalmapalphaenvmapmask 		"1"
+	"$halflambert" "1"
+	"$nocull" 1
+	$alphatest 1
+ 	$phong 1
+	$phongboost 1
+	$phongexponent 1 
+        $alphatestreference .5
+        $allowalphatocoverage 1
+}
+
