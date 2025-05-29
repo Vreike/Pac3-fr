@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\xuvon\goc_re\alpha02_col"
+	"$bumpmap"					"models\xuvon\goc_re\alpha02_nml"
+
+	"$translucent"				"1"
+	"$nocull"					"1"
+}

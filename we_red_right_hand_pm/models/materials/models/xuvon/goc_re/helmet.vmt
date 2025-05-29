@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\xuvon\goc_re\helmet_col"
+	"$bumpmap"					"models\xuvon\goc_re\helmet_nml"
+
+	"$phongexponent"			"5"
+	"$phongalbedotint"			"1"
+	"$phong"					"1"
+	"$phongboost"				"0.25"
+	"$phongfresnelranges"		"[5 7 8]"
+	"$phongexponenttexture"		"models\xuvon\goc_re\helmet_spc"
+
+	"$selfillum"				"1"
+	"$selfillummask"			"models\xuvon\goc_re\helmet_glw"
+
+	"$detail"					"models\xuvon\goc_re\detail_metal"
+	"$detailscale"				"6"
+	"$detailblendfactor"		"0.5"
+	"$detailblendmode"			"0"
+}
