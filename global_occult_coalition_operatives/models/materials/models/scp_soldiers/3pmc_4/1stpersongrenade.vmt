@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\SCP_Soldiers\3pmc_4/1stpersongrenade"
+	"$translucent" 0
+}

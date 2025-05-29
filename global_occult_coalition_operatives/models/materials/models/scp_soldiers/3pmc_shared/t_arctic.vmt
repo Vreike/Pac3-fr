@@ -1,0 +1,8 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models/SCP_Soldiers/3PMC_Shared/t_arctic"
+
+	"$model" 1
+	"$surfaceprop" "flesh"
+	"$halflambert" 1
+}

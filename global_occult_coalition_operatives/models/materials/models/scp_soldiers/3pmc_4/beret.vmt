@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models/SCP_Soldiers/3PMC_4/Beret"
+	"$bumpmap" 			"models/SCP_Soldiers/3PMC_Shared/Beret_n"
+
+	"$model" 1
+	"$surfaceprop" "carpet"
+	"$halflambert" 1
+}

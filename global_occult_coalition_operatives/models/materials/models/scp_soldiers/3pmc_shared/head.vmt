@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"	"models/SCP_Soldiers/3PMC_Shared/head"
+	"$bumpmap"	"models/SCP_Soldiers/3PMC_Shared/head_n"
+
+	"$surfaceprop"	"flesh"
+	"$model"		1
+	"$halflambert"	"1"
+}

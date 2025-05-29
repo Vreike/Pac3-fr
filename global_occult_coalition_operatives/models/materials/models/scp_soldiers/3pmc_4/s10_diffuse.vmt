@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models\SCP_Soldiers\3pmc_4\s10_diffuse"
+"$ambientocculusion" "models\SCP_Soldiers\3pmc_4\s10_diffuse"
+"$surfaceprop" "Metal"
+"$nocull" 1
+"$halflambert" 1
+"$nocull" 1
+"$phong" "1"
+"$phongexponent" "20"
+"$phongboost" "1"	
+"$phongfresnelranges"	"[.3 1 7]"
+}
