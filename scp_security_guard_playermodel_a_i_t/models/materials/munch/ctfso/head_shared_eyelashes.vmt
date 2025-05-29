@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "munch/ctfso/head_shared_eyelashes"
+	"$bumpmap" "munch/ctfso/shooting_glasses_spec_N"
+	"$translucent" 1
+}
