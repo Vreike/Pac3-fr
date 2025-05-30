@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 		"models\KSS\TSRemastered\Operator_Tac/CHR_GIGN_Lion_GadgetScreen_Diffuse"
+	"$bumpmap" 		"models\KSS\TSRemastered\Operator_Tac/CHR_GIGN_Lion_GadgetScreen_Normal"
+	"$PhongExponentTexture" 	"models\KSS\TSRemastered\Operator_Tac/CHR_GIGN_Lion_GadgetScreen_Specular"
+
+	"$color2"			"[0.8 0.8 0.8]"
+
+	"$phong" "1"
+	"$phongboost" ".3"
+	"$phongfresnelranges" "[.3 2.65 4]"
+
+	"$ambientocclusion"    "1"
+	"$nocull" "1"
+	"$halflambert" 	   "1" 
+
+	"$translucent" 1
+}

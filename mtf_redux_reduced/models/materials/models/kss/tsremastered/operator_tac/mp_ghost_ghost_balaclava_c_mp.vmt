@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\KSS\TSRemastered\Operator_Tac/mp_ghost_ghost_glasses_c_mp"
+	"$bumpmap"    "models\KSS\TSRemastered\Operator_Tac/mp_ghost_ghost_balaclava_n"
+	
+	"$phong"	"1"
+	"$phongexponent"	"6"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.10"
+	"$phongfresnelranges"	"[5 7 8]"
+    	"$lightwarptexture" 	"models\KSS\TSRemastered/Clothes_wrp"
+	"$phongexponenttexture" "models\KSS\TSRemastered\Operator_Tac/mp_ghost_ghost_balaclava_s"
+}
+
+

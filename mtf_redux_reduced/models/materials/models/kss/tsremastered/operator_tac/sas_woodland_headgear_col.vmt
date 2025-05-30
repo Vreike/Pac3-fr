@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\KSS\TSRemastered\Operator_Tac/sas_woodland_headgear_col"
+	"$bumpmap" "models\KSS\TSRemastered\Operator_Tac/sas_woodland_headgear_nml"
+
+	"$color2" "[.8 .8 .8]"
+
+	"$phong" "1"						
+	"$phongboost"	"0.001"
+	"$phongexponent" 22
+
+	"$phongfresnelranges"	"[5 7 8]"
+	"$phongtint" 			"[0.77 0.8 1]"
+	"$PhongAlbedoTint" "1"
+}

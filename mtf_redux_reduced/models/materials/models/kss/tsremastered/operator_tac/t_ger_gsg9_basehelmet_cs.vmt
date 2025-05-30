@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\KSS\TSRemastered\Operator_Tac/t_ger_gsg9_basehelmet_cs"
+	"$bumpmap"    "models\KSS\TSRemastered\Operator_Tac/t_ger_gsg9_basehelmet_nmo"
+	"$color2" "[0.5 0.5 0.5]"
+	"$blendTintByBaseAlpha"	"1"
+
+	$nocull 0		
+	$normalmapalphaenvmapmask 1 	
+
+	"$envmap" "models\MadIvan18\GSG9/Shared/killy"					
+	"$envmaptint" "[0.04 0.04 0.04]"				
+
+	"$phong"	"1"
+	"$phongexponent"	"6"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.05"
+	"$phongfresnelranges"	"[5 7 8]"
+   	"$lightwarptexture" 	"models\KSS\TSRemastered/Clothes_wrp"
+	"$phongexponenttexture" "models\KSS\TSRemastered\Operator_Tac/t_ger_gsg9_basehelmet_exp"
+}

@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\KSS\TSRemastered\Operator_Tac/CHR_SAS_Wallace_Legs_Col"
+	"$bumpmap" "models\KSS\TSRemastered\Operator_Tac/CHR_SAS_Wallace_Legs_Nml"
+	"$color2" "[0.0 0.0 0.0]"
+	"$blendTintByBaseAlpha"	"1"
+	$nocull 0	
+
+	"$phong" "1"						
+	"$phongboost"	"1" 		
+	//"$phongexponent" "2"	
+	"$phongexponenttexture" "models\KSS\TSRemastered\Operator_Tac/CHR_SAS_Wallace_Legs_Mask"
+		
+	//"$phongwarptexture"		"models/auditor/r6s/sledge/Shared/phongwarp2"		
+	//$lightwarptexture "models/auditor/r6s/sledge/Shared/WARP_SOFTSHADE"
+	
+	"$phongfresnelranges"	"[0.35 3.05 4.25]"			
+	"$PhongAlbedoTint" "1"
+}
+
+

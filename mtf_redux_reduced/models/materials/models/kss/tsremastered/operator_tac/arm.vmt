@@ -1,0 +1,20 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models\KSS\TSRemastered\Operator_Tac/Arm"
+	 "$bumpmap" 			"models\KSS\TSRemastered\Operator_Tac/Arm_n"
+
+	"$color2" "[.7 .7 .7]"	
+
+	"$blendTintByBaseAlpha"	"1"
+	$nocull 0	
+
+
+	"$phong" "1"						
+	"$phongboost"	".08" 		
+	"$phongexponent" "100"	
+	"$lightwarptexture"		"models\KSS\TSRemastered/Shared/WARP_SOFTSHADE"	
+	"$phongfresnelranges"	"[0.35 3.05 4.25]"			
+	"$PhongAlbedoTint" "1"	
+	//"$phongexponenttexture" "models\KSS\TSRemastered\mask"
+
+}

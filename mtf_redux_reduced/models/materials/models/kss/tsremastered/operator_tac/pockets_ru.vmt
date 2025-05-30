@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models\KSS\TSRemastered\Operator_Tac\pockets_rU"
+  	"$bumpmap" 	"models\KSS\TSRemastered\Tac_Soldier\pockets_r_norm"
+
+	$nodecal 1 
+
+	$nocull 1	
+
+ 	"$phong" "1"
+	"$phongexponent" "33"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[.1 .1 1]"		
+	"$alphatest" 1					
+}

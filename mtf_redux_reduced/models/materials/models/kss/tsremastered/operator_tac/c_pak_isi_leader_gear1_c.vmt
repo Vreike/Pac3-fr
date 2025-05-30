@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\KSS\TSRemastered\Operator_Tac/c_pak_isi_leader_gear1_c"
+	"$bumpmap" "models\KSS\TSRemastered\Operator_Tac/c_pak_isi_leader_gear1_n"
+	"$color2" "[3 3 3]"
+	//"$blendTintByBaseAlpha"	"1"
+
+	$normalmapalphaenvmapmask 1
+	
+	"$envmaptint" "[ 0.005 0.005 0.005]"				
+ 	"$envmapFresnel"  "[5 7 8] "
+	"$envmaptint" "[3.77 0.8 1]"
+
+	"$phong" "1"						
+	"$phongboost"	"0.04"
+	"$phongexponent" 12
+
+	"$phongfresnelranges"	"[5 7 8]"
+	"$phongtint" 			"[0.77 0.8 1]"
+	"$PhongAlbedoTint" "1"
+}

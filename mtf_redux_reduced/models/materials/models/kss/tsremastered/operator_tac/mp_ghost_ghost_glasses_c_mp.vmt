@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\KSS\TSRemastered\Operator_Tac/mp_ghost_ghost_glasses_c_mp"
+	"$bumpmap"    "models\KSS\TSRemastered\Operator_Tac/mp_ghost_ghost_balaclava_n"
+	"$phong"	"1"
+	"$phongexponent"	"25"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.20"
+	"$phongfresnelranges"	"[5 7 8]"
+    "$lightwarptexture" 	"models\KSS\TSRemastered/Clothes_wrp"
+	"$phongexponenttexture" "models\KSS\TSRemastered\Operator_Tac/mp_ghost_ghost_balaclava_s"
+	//$translucent 1
+	$ambientocclusion 0
+"$color2" "[0.0 0.0 0.0]"
+"$blendTintByBaseAlpha"	"0"
+$nocull 1		
+$normalmapalphaenvmapmask 1 	
+//"$envmap" "models\MadIvan18\GSG9/Shared/killy"					
+"$envmaptint" "[0.04 0.04 0.04]"	
+}
+

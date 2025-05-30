@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\KSS\TSRemastered\Operator_Tac/usa_esc_facescarf_r1_col"
+	"$bumpmap"    "models\KSS\TSRemastered\Operator_Tac/usa_esc_facescarf_r1_nml"	
+
+	$nocull 1	
+
+
+	"$phong"	"1"
+	"$phongexponent"	"6"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.01"
+	"$phongfresnelranges"	"[5 7 8]"
+
+	//"$lightwarptexture" 	"models\KSS\TSRemastered\Shared/Clothes_wrp"
+	//"$phongexponenttexture" "models\KSS\TSRemastered\Shared\exp"
+}
+
+

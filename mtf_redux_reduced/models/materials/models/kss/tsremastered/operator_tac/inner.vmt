@@ -1,0 +1,13 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models\KSS\TSRemastered\Tac_Soldier/Inner"
+	 "$bumpmap" 			"models\KSS\TSRemastered\Tac_Soldier/Inner_n"
+
+	$nodecal 1 
+
+	$nocull 1	
+
+	"$model" 1
+	"$surfaceprop" "flesh"
+	"$halflambert" 1
+}
