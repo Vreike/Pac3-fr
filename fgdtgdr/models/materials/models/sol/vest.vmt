@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\sol\vest"
+	"$bumpmap" "models\sol\vest_n"
+
+}

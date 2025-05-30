@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\sol\sleeves"
+	"$bumpmap" "models\sol\sleeves_n"
+
+}
