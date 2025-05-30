@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models\mtf_pms_jer/quadeye_bm"
+
+	"$bumpmap" 		"models\mtf_pms_jer/quadeye_nm"
+	
+	$halflambert 1
+	$nocull 1
+	
+	
+	$lightwarptexture	"models\mtf_pms_jer/clothes_wrp"
+
+	$phong 1
+	$phongexponenttexture	"models\mtf_pms_jer/exp"
+	$phongalbedotint 1
+	$phongexponent 3
+	$phongboost 5
+	$phongfresnelranges "[0.5 1.5 8.0]"
+	
+	// $rimlight 1
+	$rimlighexponent 25
+	$rimlightboost 0.01
+}

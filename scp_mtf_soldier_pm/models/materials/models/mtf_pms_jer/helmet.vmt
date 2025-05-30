@@ -1,0 +1,30 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\mtf_pms_jer/helmet"
+	"$bumpmap"    "models\mtf_pms_jer/helmet_n"
+	
+$nocull 1
+$model 1	
+"$blendTintByBaseAlpha"	"1"
+"$PhongDisableHalfLambert" "1"
+
+
+	//TRANSPARENCY AND AO:
+
+
+	$lightwarptexture "models\mtf_pms_jer/lightwarp_soft"
+
+
+	"$rimlight" "1"
+	"$rimlightboost" "0.35"
+
+	//IMPORTANT:
+
+	"$phong" "1"						
+	"$phongboost"	"0.55" 		
+	"$phongexponenttexture" "models\mtf_pms_jer/phongwarp_sheen" 
+ 
+
+}
+
+
