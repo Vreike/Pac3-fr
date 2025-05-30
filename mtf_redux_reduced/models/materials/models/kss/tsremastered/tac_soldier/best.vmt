@@ -1,0 +1,19 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models\KSS\TSRemastered\Tac_Soldier/Best"
+	 "$bumpmap" 			"models\KSS\TSRemastered\Tac_Soldier/Best_n"
+
+	 "$envmap" 			"env_cubemap"
+	"$envmaptint"			"[ 0.36 0.36 0.36 ]"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmapsaturation" 0.7
+	"$envmapcontrast" 0.3
+
+	$nodecal 1 
+
+	$nocull 1	
+
+	"$model" 1
+	"$surfaceprop" "carpet"
+	"$halflambert" 1
+}

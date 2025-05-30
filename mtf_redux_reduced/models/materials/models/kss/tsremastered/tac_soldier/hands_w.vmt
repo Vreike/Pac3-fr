@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\KSS\TSRemastered\Tac_Soldier\hands_w"
+	"$bumpmap"     "models\KSS\TSRemastered\Tac_Soldier\hands_n"
+
+	$nodecal 1 
+
+	$nocull 1	
+
+	"$phong" "1"
+	"$phongboost" "1.0"
+	"$phongexponent" "8"
+	"$phongfresnelranges"	"[.1 .5 1]"
+	"$phongtint" "[0.8 0.6 0.4]"
+	
+}

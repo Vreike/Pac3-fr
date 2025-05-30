@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models\KSS\TSRemastered\Operator_Tac\Mask\Pad_BM"
+
+	"$bumpmap" 		"models\KSS\TSRemastered\Operator_Tac\Mask\Pad_NM"
+	
+	$halflambert 1
+	$nocull 1
+
+	$phong 1
+	$phongalbedotint 1
+	$phongexponent 3
+	$phongboost 5
+	$phongfresnelranges "[0.5 1.5 8.0]"
+}

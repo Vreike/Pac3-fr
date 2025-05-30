@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\KSS\TSRemastered\Tac_Soldier/wss2_pack0_wet_bsm"
+                "$bumpmap"    "models\KSS\TSRemastered\Tac_Soldier/wss2_pack0_wet_nrm"
+	"$color2" "[.5 .5 .5]"
+	"$phong" "1"
+//	"$phongexponent" "5"
+	"$phongalbedotint" "1"
+	"$phongboost" ".6"
+	"$phongfresnelranges"	"[5 7 8]"
+     	"$phongexponenttexture" "models\KSS\TSRemastered\Tac_Soldier/wss2_pack0_wet_exp"
+//	$translucent 1
+}
+
+

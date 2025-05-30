@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" 	"models\KSS\TSRemastered\Tac_Soldier\riot_RU"
+  	"$bumpmap" 	"models\KSS\TSRemastered\Tac_Soldier\pants_norm"
+
+	//"$color2" "[.5 .5 .5]"	
+
+	$nodecal 1 
+
+	$nocull 1	
+
+ 	"$phong" "1"
+	"$phongexponent" "33"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[.1 .1 1]"									
+}
