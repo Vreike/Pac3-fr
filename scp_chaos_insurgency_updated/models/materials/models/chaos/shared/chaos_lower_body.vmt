@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\chaos\shared\chaos_lower_body"
+	"$bumpmap"   "models\chaos\shared\chaos_lower_body_n"
+	//TRANSPARENCY AND AO:
+
+
+	$lightwarptexture "models\chaos\shared/lightwarp_soft"
+
+
+	"$rimlight" "1"
+	"$rimlightboost" "0.15"
+
+	//IMPORTANT:
+
+	"$phong" "1"						
+	"$phongboost"	"0.15" 		
+	"$phongexponenttexture" "models\chaos\shared/phongwarp_sheen" 
+}

@@ -1,0 +1,18 @@
+
+
+"VertexLitGeneric"
+{
+//Basic
+	"$BaseTexture"     "models/chaos/juggernaut/chaos_juggernaut_visor"
+
+//Transparency
+	"$Additive"    	 			"1"
+//Other
+	"$Model"                    "1"
+	"$HalfLambert" 			    "0"
+	"$NoDecal" 				    "0"
+	"$AmbientOcclusion" 	    "0"
+	"$NoCull" 				    "0"
+	"$SurfaceProp" 			    "flesh"
+
+}

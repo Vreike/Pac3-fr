@@ -1,0 +1,30 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\chaos\juggernaut/chaos_juggernaut_plate_carrier"
+	"$bumpmap"    "models\chaos\juggernaut/chaos_juggernaut_plate_carrier_n"
+	
+$nocull 1
+$model 1	
+"$blendTintByBaseAlpha"	"1"
+"$PhongDisableHalfLambert" "1"
+
+
+	//TRANSPARENCY AND AO:
+
+
+	$lightwarptexture "models\chaos\shared/lightwarp_soft"
+
+
+	"$rimlight" "1"
+	"$rimlightboost" "0.35"
+
+	//IMPORTANT:
+
+	"$phong" "1"						
+	"$phongboost"	"0.55" 		
+	"$phongexponenttexture" "models\chaos\shared/phongwarp_sheen" 
+ 
+
+}
+
+
