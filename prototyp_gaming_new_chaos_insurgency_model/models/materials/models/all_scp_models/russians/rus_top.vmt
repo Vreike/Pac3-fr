@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\all_scp_models\russians/rus_top"
+	"$bumpmap"    "models\all_scp_models\russians/rus_top_n"
+$nocull 1
+$model 1	
+"$blendTintByBaseAlpha"	"1"
+"$PhongDisableHalfLambert" "1"
+
+
+
+}

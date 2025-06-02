@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\ninja/mgs4/praying_mantis/pmc_00_d"
+
+	"$phong" "1"
+	"$phongexponent" "4"
+//	"$phongalbedotint" "1"
+	"$phongboost" ".05"
+	"$phongfresnelranges"	"[.3 .3 .3]"
+        "$lightwarptexture" 	"models\ninja/mgs4/Clothes_wrp"
+//	"$phongexponenttexture" "models\ninja/mgs4/exp"
+	$halflambert 1
+}
+
+
