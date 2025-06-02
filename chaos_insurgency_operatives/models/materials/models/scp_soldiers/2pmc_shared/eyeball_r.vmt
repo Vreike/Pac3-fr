@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models/SCP_Soldiers/2PMC_Shared/eyeball_r"
+	"$iris" "models/SCP_Soldiers/2PMC_Shared/pupil_r"
+	"$halflambert" 1
+}
