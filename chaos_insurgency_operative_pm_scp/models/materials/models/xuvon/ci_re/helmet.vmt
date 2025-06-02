@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture"				"models\xuvon\ci_re\helmet_d"
+	"$bumpmap"					"models\xuvon\ci_re\helmet_n"
+
+	"$phong"					"1"
+	"$phongboost"				"0.3"
+	"$phongexponent"			"9"
+	"$phongfresnelranges"		"[0.2 0.6 1]"
+
+	"$detail"					"models\xuvon\ci_re\detail_head"
+	"$detailscale"				"20"
+	"$detailblendfactor"		"0.5"
+	"$detailblendmode"			"0"
+}

@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture"				"models\xuvon\ci_re\redeye"
+	"$selfillum"				"1"
+	
+	"$rimlight"					"0"
+	"$rimlightexponent"			"3"
+}
