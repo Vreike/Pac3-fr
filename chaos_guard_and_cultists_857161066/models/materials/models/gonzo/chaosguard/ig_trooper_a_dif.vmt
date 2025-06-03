@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gonzo\chaosguard/ig_trooper_a_dif"
+	"$nocull" 1
+	"$halflambert" 1
+}

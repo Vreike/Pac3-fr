@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\gonzo\chaosguard/arms"
+	"$halflambert" 1
+	"$nocull" 1
+}
