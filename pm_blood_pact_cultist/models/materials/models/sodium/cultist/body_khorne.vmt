@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	$basetexture "models\sodium\cultist\Body_Khorne_BaseColor"
+	$bumpmap "models\sodium\cultist\Body_Khorne_Normal"
+
+	"$phong" "1"
+              
+//	"$phongexponent" 4
+	"$phongboost" "1"
+	"$phongfresnelranges"	"[1 3 5]"
+	"$PhongAlbedoTint" "1"
+
+
+}
