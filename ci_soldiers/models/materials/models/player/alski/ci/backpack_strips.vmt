@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models\player\alski\CI\backpack_Strips"
+	"$bumpmap" 			"models\player\alski\CI\backpack_Strips_n"
+
+	"$model" 1
+	"$surfaceprop" "carpet"
+	"$halflambert" 1
+}

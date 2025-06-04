@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\alski\CI\metal"
+	"$bumpmap" "models\player\alski\CI\metalN"
+	
+}

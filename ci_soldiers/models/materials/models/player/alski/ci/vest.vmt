@@ -1,0 +1,19 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\alski\CI\vest_col"
+	"$bumpmap" "models/auditor/re2/hunk/vest_nml"
+	"$color2" "[0.8 0.8 0.8]"
+
+	
+	$phong 1
+	$phongboost "0.4"
+	$phongexponent "8"	
+	"$phongexponenttexture" "models\player\alski\CI\vest_mask"
+	
+				
+	"$envmap" "env_cubemap"							
+	"$envmapsaturation" "1"
+	"$envmaptint" "[.01 .01 .01]"					
+ 	"$envmapFresnel" "0.5"		
+
+}

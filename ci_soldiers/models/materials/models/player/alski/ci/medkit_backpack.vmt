@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models\player\alski\CI\medkit_backpack"
+	"$bumpmap" 			"models\player\alski\CI\medkit_backpackN"
+
+}

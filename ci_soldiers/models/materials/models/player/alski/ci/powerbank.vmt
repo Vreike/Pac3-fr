@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models\player\alski\CI\powerbank"
+	"bumpmap"				"models\player\alski\CI\powerbankN"
+}

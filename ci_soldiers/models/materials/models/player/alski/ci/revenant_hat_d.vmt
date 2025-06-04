@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\player\alski\CI\Revenant_hat_d"	
+  	"$bumpmap" "models\player\alski\CI\Revenant_hat_n"
+
+	
+}

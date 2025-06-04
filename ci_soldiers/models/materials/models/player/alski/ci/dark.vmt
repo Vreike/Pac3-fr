@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	"$basetexture"			"models\player\alski\CI\dark"
+	"$bumpmap" 			"models\player\alski\CI\darkN"
+
+	"$model" 1
+	"$surfaceprop" "carpet"
+	"$halflambert" 1
+}
